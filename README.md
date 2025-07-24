@@ -54,7 +54,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Conclusion
 
-The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
+This E-Commerce Sales Dashboard is a comprehensive Power BI project that showcases essential data analysis and visualization skills. It demonstrates how raw sales data can be transformed into actionable business insights through effective use of DAX, interactive visuals, and data storytelling techniques.
+
 
 
 <!--## How to Contribute
