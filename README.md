@@ -7,7 +7,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Screenshot
 
-![dashboard preview](https://github.com/Saiyam0808/E-Commerce-Store-Analysis/blob/main/E-commerce%20Sales%20Dashboard.pbix)
+![dashboard preview](https://raw.githubusercontent.com/Saiyam0808/E-Commerce-Store-Analysis/refs/heads/main/Dashboard.png)
 
 ## Installation
 
