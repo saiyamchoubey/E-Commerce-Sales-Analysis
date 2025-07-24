@@ -2,12 +2,23 @@
 
 ## Description
 
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
+This repository contains a **Power BI dashboard** for analyzing sales data from an e-commerce store. It answers key business questions using visually appealing charts and graphs to uncover insights about profit, revenue, orders, and customer behavior.
+
 <!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
 
 ## Screenshot
 
 ![dashboard preview](https://raw.githubusercontent.com/Saiyam0808/E-Commerce-Store-Analysis/refs/heads/main/Dashboard.png)
+
+## 📌 Key Features
+
+- 📈 **KPI Cards**: Display total Amount, Profit, Quantity, AOV
+- 🗺️ **Map Visual**: Orders by City (Interactive map using Bing)
+- 📍 **Amount by State**: Compare state-wise performance
+- 💳 **Payment Mode Analysis**: Track purchase preferences (UPI, COD, etc.)
+- 📅 **Time-Based Trends**: Profit by Month
+- 🛍️ **Category & Sub-category**: Sales by product category
+- 👤 **Customer Analysis**: Top spending customers
 
 ## Installation
 
@@ -23,9 +34,12 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![schema](MusicDatabaseSchema.png)
     ``` -->
 
-## Tools
+## ⚙️ Tools Used
 
-* Microsoft Power BI
+- **Microsoft Power BI**
+- **Data Cleaning & Transformation** using Power Query Editor
+- **DAX** for calculated measures and KPIs
+- **Custom Visuals & Themes**
 
 ## Badges
 
