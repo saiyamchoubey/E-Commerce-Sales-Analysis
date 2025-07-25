@@ -37,13 +37,12 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## ⚙️ Tools Used
 
 - **Microsoft Power BI**
-- **Data Cleaning & Transformation** using Power Query Editor
-- **DAX** for calculated measures and KPIs
-- **Custom Visuals & Themes**
+- **Microsoft Excel**
 
 ## Badges
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Project Learnings
 
