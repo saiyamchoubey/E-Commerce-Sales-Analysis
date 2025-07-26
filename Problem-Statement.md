@@ -25,5 +25,5 @@ The outcome is a Power BI dashboard that offers:
 
 ---
 
-🔗 [E-commerce Sales Dashboard.pbix](./E-Commerce-Sales-Dashboard.pbix)
+🔗 [E-commerce Sales Dashboard.pbix](./E-commerce-Sales-Dashboard.pbix)
 
