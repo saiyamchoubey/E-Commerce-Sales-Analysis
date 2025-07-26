@@ -25,4 +25,5 @@ The outcome is a Power BI dashboard that offers:
 
 ---
 
-🔗 This file supports the [E-commerce Sales Dashboard.pbix) and provides the business context behind the insights derived.
+🔗 [E-commerce Sales Dashboard.pbix](./E-Commerce-Sales-Dashboard.pbix)
+
