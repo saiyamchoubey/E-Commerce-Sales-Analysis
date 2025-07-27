@@ -1,6 +1,6 @@
 👉 [Click here to read the full Problem Statement](./Problem-Statement.md)
 
-# E-Commerce Store Analysis
+# E-Commerce Salea Analysis
 
 ## Description
 
