@@ -10,7 +10,8 @@ This repository contains a **Power BI dashboard** for analyzing sales data from 
 
 ## Screenshot
 
-![dashboard preview](https://raw.githubusercontent.com/Saiyam0808/E-Commerce-Store-Analysis/refs/heads/main/Dashboard.png)
+![dashboard preview](<img width="1312" height="728" alt="Screenshot 2025-07-28 203332" src="https://github.com/user-attachments/assets/7d0837d9-840b-49e1-8998-55365c37c4cc" />
+)
 
 ## 📌 Key Features
 
