@@ -10,8 +10,7 @@ This repository contains a **Power BI dashboard** for analyzing sales data from 
 
 ## Screenshot
 
-![dashboard preview](<img width="1312" height="728" alt="Screenshot 2025-07-28 203332" src="https://github.com/user-attachments/assets/7d0837d9-840b-49e1-8998-55365c37c4cc" />
-)
+![dashboard preview](<img width="1312" height="728" alt="Screenshot 2025-07-28 203332" src="https://github.com/user-attachments/assets/509e939d-8bb4-4c8e-b570-dbdcb96c8569" />)
 
 ## 📌 Key Features
 
